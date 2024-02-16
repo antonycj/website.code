@@ -65,7 +65,7 @@ social:
 highlight_name: false
 ---
 
-I am currently a PhD student of Political Science in the Truman School of Government and Public Affairs and a graduate fellow at the [Kinder Institute on Constitutional Democracy](https://democracy.missouri.edu/directory/?department=graduate-fellows). I received my MA in Atlantic History and Politics from the University of Missouri and my BA in Political Science from Utah Valley University. I is interested in American political development and the relationship between political institutions and ideas in Early Republic. In particular, I is interested in observing the evolution of state constitutions during the Early Republic.
+I am currently a PhD student of Political Science in the Truman School of Government and Public Affairs and a graduate fellow at the [Kinder Institute on Constitutional Democracy](https://democracy.missouri.edu/directory/?department=graduate-fellows). I received my MA in Atlantic History and Politics from the University of Missouri and my BA in Political Science from Utah Valley University. I am interested in American political development and the relationship between political institutions and ideas in Early Republic. In particular, I am interested in observing the evolution of state constitutions during the Early Republic.
 
 You can download a copy of my Curriculum Vitae {{< staticref "Jackson_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
