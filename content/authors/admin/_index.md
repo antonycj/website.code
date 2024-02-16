@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Jacob Authement
+title: Antony C. Jackson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Candidate
+role: Political Science PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,23 +14,26 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include American state politics, American political institutions, and interest groups.
+bio: My research interests include American state politics, American political institutions, and American political development.
 
 # Interests to show in About widget
 interests:
 - American State Politics
 - American Political Institutions
-- Interest Group Politics
+- American Political Development
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2024 (expected)
-  - course: BA in Political Science and English Folklore
-    institution: University of Louisiana at Lafayette
-    year: 2019
+    year: 2027 (expected)
+  - course: MA in Atlantic History and Politics
+    institution: University of Missouri
+    year: 2023
+  - course: BA in Political Science
+    institution: Utah Valley University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,19 +42,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jauthement@mail.missouri.edu'
+  link: 'mailto:ajm7b@missouri.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Jacob_Authement
+  link: 'https://twitter.com/Jackson59Antony'
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/JacobAuthement
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jacob-authement-35a986251
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,10 +65,8 @@ social:
 highlight_name: false
 ---
 
-_Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jacob._
+I am currently a PhD student of Political Science in the Truman School of Government and Public Affairs and a graduate fellow at the [Kinder Institute on Constitutional Democracy](https://democracy.missouri.edu/directory/?department=graduate-fellows). I received my MA in Atlantic History and Politics from the University of Missouri and my BA in Political Science from Utah Valley University. I is interested in American political development and the relationship between political institutions and ideas in Early Republic. In particular, I is interested in observing the evolution of state constitutions during the Early Republic.
 
-I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://politicalscience.louisiana.edu) _(Geaux Cajuns!)_. Professionally, my research interests include American state politics, American political institutions, interest groups, and legislative expertise. My dissertation research focuses on the procedural expertise state legislatures, committees, and legislators accrue through time and how (or if) they replace this expertise in the face of shorter time horizons.
+You can download a copy of my Curriculum Vitae {{< staticref "Jackson_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-You can download a copy of my Curriculum Vitae {{< staticref "Authement_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-As a bit of non-academic background, I was born and raised in the small town of Chauvin, located on the bayous of South Louisiana. I have several years of experience working in both state and local politics in Louisiana (through the Louisiana State Legislature and Lafayette Consolidated Government, respectively). If I am not researching state legislatures, you can usually find me waxing nostalgic about Louisiana cuisine, rooting for the STL Cardinals, or playing a video game... or probably a combination of all three.
