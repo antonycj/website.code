@@ -25,4 +25,6 @@ _Teaching Assistant_
 + American Political Thought, POLSC 2860, Fall 2022
 
 <h2>Utah Valley University</h2>
+
+_Teaching Assistant_
 + Comparative Constitutionalism, POLS 2600, Fall 2021
