@@ -14,13 +14,14 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include American state politics, American political institutions, and American political development.
+bio: My research interests include American state politics, American political institutions, American political development, and political parties.
 
 # Interests to show in About widget
 interests:
 - American State Politics
 - American Political Institutions
 - American Political Development
+- Political Parties
 
 # Education to show in About widget
 education:
