@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Antony C. Jackson
+title: A. David Jackson
 
 # Is this the primary user of the site?
 superuser: true
