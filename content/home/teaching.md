@@ -27,7 +27,7 @@ _Teaching Assistant_
 <h2>Utah Valley University</h2>
 
 _Instructor of Record_
-+Intro to Political Theory, POLS 230G, Summer 2024
++ Intro to Political Theory, POLS 230G, Summer 2024
 
 _Teaching Assistant_
 + Comparative Constitutionalism, POLS 2600, Fall 2021
