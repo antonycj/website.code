@@ -20,7 +20,8 @@ bio: My research interests include American state politics, American political i
 interests:
 - American State Politics
 - American Political Institutions
-- American Political Development
+- Comparative Politics
+- Historical Political Economy
 - Political Parties
 
 # Education to show in About widget
@@ -66,7 +67,7 @@ social:
 highlight_name: false
 ---
 
-I am currently a PhD student of Political Science in the [Truman School of Government and Public Affairs](https://truman.missouri.edu/people/jackson) and a graduate fellow at the [Kinder Institute on Constitutional Democracy](https://democracy.missouri.edu/directory/?department=graduate-fellows). I received my MA in Atlantic History and Politics from the University of Missouri and my BA in Political Science from Utah Valley University. I am interested in American state politics, American political development, and the relationship between political institutions and ideas. In particular, I am interested in how ideas impact the development and writing of American state constitutions. I am also interested in how political parties play a role in institutional evolution.
+I am currently a PhD student of Political Science at the [Truman School of Government and Public Affairs](https://truman.missouri.edu/people/jackson) and a graduate fellow at the [Kinder Institute on Constitutional Democracy](https://democracy.missouri.edu/directory/?department=graduate-fellows). I received my MA in Atlantic History and Politics from the University of Missouri and my BA in Political Science from Utah Valley University. I am interested in American politics, comparative politics, historical political economy, and political institutions. In particular, I am interested in how ideas affect the evolution of political institutions and how political parties act as an the vehicle of how ideas impact institutional development.
 
 You can download a copy of my Curriculum Vitae {{< staticref "Jackson_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
